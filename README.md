@@ -1,4 +1,4 @@
-# The Repository of Us 💑
+# The Repository of Us 
 
 A GitHub-themed romantic website for my Valentine.
 
